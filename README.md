@@ -1,4 +1,5 @@
-📊 Customer Behavior Data Analysis – End-to-End Portfolio Project
+**📊 Customer Behavior Data Analysis – End-to-End Portfolio Project**
+
 📌 Overview
 This project demonstrates a complete end-to-end data analytics workflow designed to replicate real-world business scenarios. The main objective is to analyze customer behavior and extract meaningful insights that can help businesses make data-driven decisions.
 The project covers all major stages of data analytics, including data collection, cleaning, transformation, exploratory data analysis (EDA), SQL-based querying, dashboard creation, and reporting. It highlights the ability to convert raw data into actionable insights and effectively communicate findings to stakeholders.
