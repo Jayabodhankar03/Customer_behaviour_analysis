@@ -73,3 +73,6 @@ ________________________________________
 
 📌 Conclusion
 This project showcases the complete lifecycle of a data analytics project, from raw data processing to insight generation and visualization. It reflects real-world analyst responsibilities and demonstrates strong technical and analytical skills required for Data Analyst roles.
+
+<img width="1349" height="750" alt="Customer_analysis_dashboard" src="https://github.com/user-attachments/assets/2000dd20-0afe-478e-97ba-e2571ce690bd" />
+
